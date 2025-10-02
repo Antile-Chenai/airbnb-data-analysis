@@ -1,0 +1,6 @@
+pandas==latest
+numpy==latest
+matplotlib==latest
+seaborn==latest
+notebook==latest
+ipykernel==latest
