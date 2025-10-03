@@ -20,3 +20,8 @@ python scripts/main.py
 - Full project code included
 - Ready for further development
 
+## How to Run
+1. Clone the repo
+2. `cd projects/airbnb-market-analysis/scripts`
+3. `pip install -r ../requirements.txt`
+4. `python3 main.py
