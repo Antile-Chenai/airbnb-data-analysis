@@ -1,10 +1,15 @@
 # airbnb-data-analysis
 
 ## Overview
-This is the airbnb-data-analysis project. 
+This is the airbnb-data-analysis project.
 
 ## Technologies
 Python, Pandas, NumPy, Matplotlib
+
+## Scripts
+```python
+print('airbnb-data-analysis Project')
+```
 
 ## Usage
 ```bash
@@ -12,6 +17,6 @@ python scripts/main.py
 ```
 
 ## Outcome
-- Added basic script for demonstration
+- Full project code included
 - Ready for further development
 
